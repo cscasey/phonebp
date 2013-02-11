@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.fellers.brainpower"
+    version   = "1.0.0">
+
+<name>FELLERS BrainPower</name>
+
+<description>
+FELLERS' own repository of information about every product we sell, including MSDS sheets, specifications, notes from our own technicians, and much more.
+</description>
+
+<author href="http://www.fellers.com" email="chris.casey@fellers.com">
+Chris Casey for FELLERS Inc.
+</author>
+
+</widget>
